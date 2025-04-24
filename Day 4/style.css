@@ -1,0 +1,39 @@
+body {
+    border: 2px solid gray;
+    width: 500px;
+    height: 700px;
+    background-color: black;
+}
+
+h5 {
+    text-align: right;
+}
+
+img {
+    justify-content: center;
+}
+
+.paragraph h2 h1{
+    text-align: center;
+}
+
+.paragraph h5{
+    text-align: center;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+
+.design {
+    border: 2px solid gray;
+    padding: 1rem;
+    text-align: center;
+}
+
+.design h1{
+    text-align: left;
+}

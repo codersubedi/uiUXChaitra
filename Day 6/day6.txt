@@ -1,0 +1,13 @@
+Selector types:
+1. element Selector
+2. class Selector
+3. id Selector
+4. universal Selector
+5. attribute Selector
+6. pseudo Selector
+7. grouping Selector
+
+CSS types:
+1. inline
+2. internal
+3. external

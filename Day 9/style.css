@@ -1,0 +1,19 @@
+/* Css usnits
+1. px (Fixed => 
+2. rem (relative to the root element(html's font size/default size => 16))
+3. em(relative to the nearest parent position)
+4. %(relative to the parent)
+5. vh(relative to the viewport's height)
+6. vw(relative to the viwqport's width)
+*/
+.box {
+    border: 4px solid black;
+    background-color: #EDFFF5;
+    color: green;
+    width: 300px;
+    height: 150px;
+    /* overflow: auto; */
+    overflow-y: scroll;
+    /* overflow-x: scroll; */
+    /* text-wrap: nowrap; */
+}
